@@ -52,7 +52,7 @@ input[type='button']:active {
     height: 40px;
 }
 
-.equal {
+#equal {
     background-color: darkolivegreen;
     padding: 5px;
     width: 100%;
