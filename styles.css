@@ -25,13 +25,14 @@ h1 {
   margin-bottom: 10px; 
 }
 
-input[type='button']:hover { /*Note: there shouldn't be space */
-    background-color:blueviolet;
+
+/*input[type='button']:hover { /*Note: there shouldn't be space */
+/*    background-color:blueviolet;
 }
 input[type='button']:active {
     background-color:coral
 }
-
+*/
 .operator {
     background-color: darkcyan;
     padding: 5px;
