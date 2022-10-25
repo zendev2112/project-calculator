@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.container {
+    background-color: darksalmon;
+    padding: 15px;
+    width: 40%; /*en relacion al body*/
+    border: solid 2px black;
+    align-self: center;
+    display: block;
+    margin: 100px auto;/*When one value is specified, it applies the same margin to all four sides*/
+}
+
+.screen {
+  color: black;
+  width: 100%;
+  padding: 10px;
+  margin: auto;
+  margin-bottom: 10px; 
+}
